@@ -1,4 +1,4 @@
-#シリーズ目次
+# シリーズ目次
 - [機械学習の理論を理解せずに tensorflow で オセロ AI を作ってみた ～導入編～](http://qiita.com/sasaco/items/3b0b8565d6aa2a640caf)
 - [機械学習の理論を理解せずに tensorflow で オセロ AI を作ってみた ～実装編～](http://qiita.com/sasaco/items/fdb9771c146cb877b183)
 - [機械学習の理論を理解せずに tensorflow で オセロ AI を作ってみた ～いざ対戦編～](http://qiita.com/sasaco/items/f9aa608860eebb3026c1)
